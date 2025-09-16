@@ -1,11 +1,11 @@
 /* Add CSS Styling */
 .odd p {
-    background-color: pink;
+    background-color: #FFA7A7;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 #second {
-    color: blue;
+    color: #0000FF;
     font-size: 36px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 #fourth {
-    background-color: green;
+    background-color: #80FF80;
     font-size: 24px;
     font-weight: bold;
 }
