@@ -50,3 +50,7 @@ img {
 .text {
   text-align: center;
 }
+
+.plants {
+  display: flex;
+}
