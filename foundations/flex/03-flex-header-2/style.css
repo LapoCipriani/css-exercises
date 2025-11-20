@@ -63,4 +63,11 @@ ul {
 
 ul {
   display: flex;
+  gap: 16px;
+}
+
+.left-elements {
+  display: flex;
+  gap: 16px;
+  align-items: center;
 }
