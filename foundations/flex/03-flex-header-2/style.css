@@ -71,3 +71,8 @@ ul {
   gap: 16px;
   align-items: center;
 }
+
+.right-elements {
+  display: flex;
+  gap: 16px;
+}
