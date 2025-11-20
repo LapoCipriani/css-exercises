@@ -53,4 +53,5 @@ img {
 
 .plants {
   display: flex;
+  gap: 52px;
 }
