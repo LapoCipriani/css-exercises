@@ -25,6 +25,7 @@ body {
   justify-content: flex-start;
   align-items: flex-start;
   padding: 10px;
+  gap: 10px;
 }
 
 .icon {
@@ -39,7 +40,6 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  margin-right: 10px;
 }
 
 .close-button {
@@ -86,4 +86,9 @@ div .first-line {
 div .header {
   font-size: 1.25rem;
   font-weight: 600;
+  margin-bottom: 10px;
+}
+
+div .text {
+  margin-bottom: 10px;
 }
