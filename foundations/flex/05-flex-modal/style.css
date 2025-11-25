@@ -82,3 +82,8 @@ div .first-line {
   justify-content: space-between;
   flex-wrap: nowrap;
 }
+
+div .header {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
