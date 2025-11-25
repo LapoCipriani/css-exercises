@@ -73,3 +73,11 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+/* Not so sure */
+div .first-line {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
