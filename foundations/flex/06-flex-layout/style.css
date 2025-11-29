@@ -62,3 +62,7 @@ ul a {/* My try */
   flex-direction: column;
   align-items: center;
 }
+
+.left-links, .right-links {
+  gap: 15px;
+}
