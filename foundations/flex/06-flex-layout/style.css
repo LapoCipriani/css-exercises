@@ -34,6 +34,8 @@ input {
 
 ul {/* My try */
   list-style-type: none;
+  display: flex;
+  flex-direction: row;
 }
 
 ul a {/* My try */
