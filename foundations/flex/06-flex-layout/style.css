@@ -29,6 +29,7 @@ button {
   border-radius: 8px;
   background: #eee;
   color: black;/* My try */
+  padding: 6px;
 }
 
 input {
