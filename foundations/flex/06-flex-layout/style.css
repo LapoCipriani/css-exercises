@@ -43,7 +43,7 @@ ul a {/* My try */
   color: #6D6D6D;
 }
 
-.header {
+.header, .footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
