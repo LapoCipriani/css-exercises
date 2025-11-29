@@ -33,5 +33,8 @@ input {
 
 ul {
   list-style-type: none;
-  margin-left: 50px; /* to remove later */
+}
+
+ul a {
+  text-decoration: none;
 }
