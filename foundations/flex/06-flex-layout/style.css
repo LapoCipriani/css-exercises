@@ -66,3 +66,7 @@ ul a {/* My try */
 .left-links, .right-links {
   gap: 15px;
 }
+
+.footer {
+  background-color: #eeeeee;
+}
