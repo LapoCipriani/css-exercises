@@ -15,7 +15,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
+  align-items: center; /* this one I'm not sure because it messes with header and footer */
+  
 }
 
 img {
@@ -52,4 +53,5 @@ ul a {/* My try */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  width: 100%;
 }
