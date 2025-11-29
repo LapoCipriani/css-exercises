@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
 body {
   height: 100vh;
   margin: 0;
@@ -25,10 +31,7 @@ input {
   width: 400px;
 }
 
-/* My try */
-
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+ul {
+  list-style-type: none;
+  margin-left: 50px; /* to remove later */
 }
