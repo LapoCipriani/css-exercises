@@ -24,3 +24,11 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+/* My try */
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
