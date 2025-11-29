@@ -54,6 +54,7 @@ ul a {/* My try */
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
+  padding: 18px 15px;
 }
 
 .content {
