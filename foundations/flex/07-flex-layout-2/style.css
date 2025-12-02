@@ -48,3 +48,9 @@ body {
 .content {
   display: flex;
 }
+
+.sidebar ul li a {
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+}
