@@ -58,4 +58,9 @@ body {
 
 .sidebar ul {
   list-style-type: none;
+
+}
+
+.sidebar ul li {
+  padding-bottom: 16px;
 }
