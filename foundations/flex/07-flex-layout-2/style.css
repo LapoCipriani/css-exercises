@@ -55,3 +55,7 @@ body {
   color: white;
   text-decoration: none;
 }
+
+.sidebar ul {
+  list-style-type: none;
+}
